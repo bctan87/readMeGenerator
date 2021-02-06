@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bctan87/readMeGenerator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
   }
 }
