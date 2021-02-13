@@ -17,11 +17,11 @@ https://github.com/bctan87/readMeGenerator
 
 ### Via VS Code
 
-1. Go to the folder containind index.js
+1. Go to the folder containing index.js
 2. Enter on VS Code console : node index.js
 
 ### Via Terminal 
-1. cd into the folder container index.js
+1. cd into the folder containing index.js
 2. Enter node index.js
 
 ## Credits 
